@@ -1,0 +1,8 @@
+{
+  "name": "Remix Mysuru Emergency Hospital \u0026 Ambulance Management System",
+  "description": "Multi-portal emergency management platform deterministically balancing clinical readiness and road-travel ETAs across Citizens, Drivers, and Hospital Administrators in Mysuru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
