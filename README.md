@@ -2,7 +2,7 @@
 
 ### The Nearest Hospital Isn't Always the Best One.
 
-## 📌 About the Project
+## 📌 About the Project:
 
 **This is a hackathon project** developed to address the challenges of emergency hospital selection and ambulance routing in Mysuru.
 
@@ -12,7 +12,7 @@ Our project aims to help ambulance drivers and emergency responders identify sui
 
 The goal is to reduce delays in emergency care and support faster, more informed hospital selection.
 
-## 🚨 Problem Statement
+## 🚨 Problem Statement:
 
 Traditional hospital selection often focuses on geographical distance without adequately considering:
 
@@ -24,13 +24,13 @@ Traditional hospital selection often focuses on geographical distance without ad
 
 These challenges can lead to delays in reaching appropriate medical care.
 
-## 💡 Our Solution
+## 💡 Our Solution:
 
 We propose an intelligent hospital-routing system that helps identify and recommend suitable hospitals based on patient requirements and available hospital information.
 
 Instead of selecting a hospital based only on proximity, the system aims to evaluate multiple factors and recommend a suitable destination for the emergency.
 
-## ✨ Key Features
+## ✨ Key Features:
 
 * **Smart Hospital Recommendations:** Identify suitable hospitals based on multiple factors.
 * **Location-Based Routing:** Find nearby hospitals and determine suitable routes.
@@ -40,7 +40,7 @@ Instead of selecting a hospital based only on proximity, the system aims to eval
 * **Dynamic Re-evaluation:** Allow hospital recommendations to be reconsidered when updated information becomes available.
 * **Emergency-Focused Interface:** Present relevant information in a clear and accessible format.
 
-## ⚙️ How It Works
+## ⚙️ How It Works:
 
 1. Enter or identify the patient's location.
 2. Specify the patient's emergency requirements.
@@ -49,7 +49,7 @@ Instead of selecting a hospital based only on proximity, the system aims to eval
 5. Recommend an appropriate hospital and display available route information.
 6. Re-evaluate the recommendation when updated data is available.
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack:
 
 * **Development Platform:** Google AI Studio
 * **Frontend:** Web technologies generated or integrated through the development workflow
@@ -60,7 +60,7 @@ Instead of selecting a hospital based only on proximity, the system aims to eval
 
 *Note: The technology stack and integrations should be updated to reflect the components actually used in the final prototype.*
 
-## 🎯 Project Objectives
+## 🎯 Project Objectives:
 
 * Improve hospital selection during medical emergencies.
 * Reduce unnecessary delays caused by unsuitable hospital destinations.
@@ -68,7 +68,7 @@ Instead of selecting a hospital based only on proximity, the system aims to eval
 * Make hospital capability and capacity information easier to evaluate.
 * Demonstrate how AI and digital technologies can support emergency healthcare.
 
-## 🌍 Expected Impact
+## 🌍 Expected Impact:
 
 * Faster and more informed emergency-routing decisions.
 * Better matching between patient needs and hospital capabilities.
@@ -76,13 +76,13 @@ Instead of selecting a hospital based only on proximity, the system aims to eval
 * More effective use of available emergency healthcare resources.
 * A foundation for future integration with verified, real-time hospital data.
 
-## ⚠️ Limitations
+## ⚠️ Limitations:
 
 Hospital capacity, bed availability, and specialist availability depend on the accuracy and freshness of the data sources.
 
 **Live availability is not guaranteed** unless the system is connected to reliable, regularly updated hospital systems or verified APIs. The prototype is intended to support decision-making and does not replace emergency medical professionals or official emergency dispatch services.
 
-## 🚀 Future Enhancements
+## 🚀 Future Enhancements:
 
 * Integration with verified real-time hospital bed and ICU data.
 * Direct connectivity with hospital management systems.
@@ -91,13 +91,13 @@ Hospital capacity, bed availability, and specialist availability depend on the a
 * Secure coordination between ambulance teams and hospital staff.
 * Improved prioritization based on emergency severity and medical requirements.
 
-## 🏆 Hackathon Project
+## 🏆 Hackathon Project:
 
 This project was developed as part of a hackathon to explore practical technology-driven solutions to real-world healthcare challenges.
 
 It demonstrates our approach to problem-solving, rapid prototyping, and the application of AI and digital technologies to emergency hospital routing.
 
-## 👥 Team
+## 👥 Team:
 
 **Project:** Mysuru Emergency Hospital Routing System
 
@@ -109,7 +109,7 @@ It demonstrates our approach to problem-solving, rapid prototyping, and the appl
 * Yashas
 * Kishor
 
-## 📄 Disclaimer
+## 📄 Disclaimer:
 
 This project is a hackathon prototype and is not a substitute for professional medical advice, emergency dispatch, or confirmed hospital admission. Hospital recommendations and availability information must be verified before operational use.
 
